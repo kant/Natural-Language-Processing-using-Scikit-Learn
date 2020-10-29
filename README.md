@@ -1,5 +1,5 @@
 # Natural-Language-Processing-using-Scikit-Learn
-Implementing Natural Langauge Processing in Python using the Natural Language ToolKit library, Naive Bayes classifier from Scikit-learn, and the concept of TF-IDF for normalization.
+Implementing Natural Language Processing in Python using the Natural Language ToolKit library, Naive Bayes classifier from Scikit-learn, and the concept of TF-IDF for normalization.
 
 
 The project is being coded in Python3. In this project, we will be performing natural language processing using NLTK(Natural Language ToolKit), which is a library for performing symbolic and statistical NLP in the English language written in Python. 
